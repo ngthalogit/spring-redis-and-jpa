@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>spring-redis-and-hibernate</artifactId>
+    <artifactId>spring-redis-and-jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-redis-and-hibernate</name>
     <description>spring-redis-and-hibernate</description>
